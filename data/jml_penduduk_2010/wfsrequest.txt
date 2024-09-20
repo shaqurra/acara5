@@ -1,0 +1,1 @@
+http://geoportal.penajamkab.go.id/geoserver/ows?access_token=None?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Ajml_penduduk_2010&outputFormat=SHAPE-ZIP&srs=EPSG%3A32750&format_options=charset%3AUTF-8
